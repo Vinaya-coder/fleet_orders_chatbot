@@ -2,8 +2,10 @@
 .venv/
 __pycache__/
 *.pyc
+*.pyc
 node_modules/
 *.egg-info/
 .DS_Store
 config/prompts.py
 config/context.yaml
+config/__pycache__/
