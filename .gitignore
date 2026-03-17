@@ -5,3 +5,5 @@ __pycache__/
 node_modules/
 *.egg-info/
 .DS_Store
+config/prompts.py
+config/context.yaml
